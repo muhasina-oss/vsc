@@ -1,6 +1,6 @@
 git init => initialize git
 
-git add -A =>  add new files to staging area
+git add -A =>  adding files or all changes to staged area
 
 git commit -m "message" => add all staged files to local repository
 
