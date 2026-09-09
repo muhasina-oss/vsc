@@ -5,3 +5,7 @@ git add -A =>  adding files or all changes to staged area
 git commit -m "message" => add all staged files to local repository
 
 git status => list all untracked files and folders
+
+git remote add name path => add remote to local
+
+git push name branch 
